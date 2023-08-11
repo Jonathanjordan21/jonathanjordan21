@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There;Welcome+To+My+Page)](https://git.io/typing-svg)
+<h1 align="center">Hi! Welcome there. I'm Jojo 👋</h1> 
+
 
 <!--
 **Jonathanjordan21/jonathanjordan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
