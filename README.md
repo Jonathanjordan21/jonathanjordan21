@@ -14,8 +14,7 @@ I'm JoJo
 
 
 - <span style="color:skyblue;font-family:monospace;">
-	Specialized in Machine Learning
- and Deep Learning 🔬🔮
+	Specialized in Machine Learning and Deep Learning 🔬🔮
 </span>
 - <span style="color:skyblue;font-family:monospace;">
 	  Currently intersted in Data Analytics and Business Intelligence <img src="https://cdn-icons-png.flaticon.com/512/5555/5555382.png" width="18" height="18"/> <img src="https://www.odyssea.eu/data/img/pie-chart-blue-loading.gif" width="20" height="20"/>
