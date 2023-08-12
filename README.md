@@ -12,9 +12,10 @@
 </h2>
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
-<code style = "color:#FFFFFF">I'm JoJo</code>
+I'm JoJo
 <br>A Final Year Undergraduate Informatics Student at Gunadarma University
 </h3>
+<br>
 
 
 - <span style="color:skyblue;font-family:monospace;" align="center">
