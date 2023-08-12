@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There;Welcome+To+My+Page&center=true&font=CherryBomb&size=34)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There;Welcome+To+My+Page&center=true&vCenter=true&font=CherryBomb&size=34)](https://git.io/typing-svg)
 <h1 align="center">✨ My name is Jojo ✨</h1> 
 
 
