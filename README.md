@@ -9,15 +9,11 @@
 
 <h2 align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=2000&pause=500&color=61C1F7&center=true&vCenter=true&width=435&lines=Hello;🌃+Welcome+to+My+Page+🌃)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=3000&pause=1000&color=61C1F7&center=true&vCenter=true&width=600&lines=My+Name+is+JoJo;Machine+Learning+and+Data+Enthusiast)](https://git.io/typing-svg)
 
 </h1>
 
-<h3 align="center", style="color:#1994FF;font-family:monospace">
-I'm JoJo
-<br>A Final Year Undergraduate Informatics Student at Gunadarma University
-</h3>
-<br>
+
 
 
 - <span style="color:skyblue;font-family:monospace;" align="center">
