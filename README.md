@@ -8,7 +8,8 @@
 </h1>
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
-I'm JoJo
+	
+<code style = "color:#1994FF">I'm JoJo</code>
 <br>A Final Year Undergraduate Student at Gunadarma University
 </h3>
 
