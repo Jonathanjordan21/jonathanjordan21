@@ -1,15 +1,17 @@
 
-<h2 align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=2000&pause=500&color=61C1F7&center=true&vCenter=true&width=435&lines=Hello;🌃+Welcome+to+My+Page+🌃)
-
-</h1>
 
 <h2 align="center">
 
 ![alt text](https://cutewallpaper.org/21/anime-night-sky-gif/Sky-night-moon-GIF-on-GIFER-by-Munilune.gif)
  
 </h2>
+
+<h2 align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=2000&pause=500&color=61C1F7&center=true&vCenter=true&width=435&lines=Hello;🌃+Welcome+to+My+Page+🌃)
+
+</h1>
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 I'm JoJo
@@ -30,7 +32,7 @@ I'm JoJo
 	Looking for collaboration on Machine Learning or Business Intelligence projects 👀
 </span>
 
-<br><br>
+<br>
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 AI/ML/DL/MLOps Technologies
 </h3>
