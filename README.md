@@ -9,7 +9,7 @@
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 	
-<code style = "color:#1994FF">I'm JoJo</code>
+<code style = "color:#FFFFFF">I'm JoJo</code>
 <br>A Final Year Undergraduate Student at Gunadarma University
 </h3>
 
@@ -23,7 +23,7 @@
  </span>
  
 - <span style="color:skyblue;font-family:monospace;">
-Looking for collaboration on Machine Learning or Business Intelligence projects 👀
+	Looking for collaboration on Machine Learning or Business Intelligence projects 👀
 </span>
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
