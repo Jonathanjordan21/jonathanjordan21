@@ -8,23 +8,23 @@
 </h1>
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
-	
 <code style = "color:#FFFFFF">I'm JoJo</code>
 <br>A Final Year Undergraduate Student at Gunadarma University
 </h3>
 
-
+<p align="center">
 - <span style="color:skyblue;font-family:monospace;" align="center">
 	Specialized in Machine Learning and Deep Learning 🔬🔮
 </span>
 
 - <span style="color:skyblue;font-family:monospace;" align="center">
-	  Currently intersted in Data Analytics and Business Intelligence <img src="https://cdn-icons-png.flaticon.com/512/5555/5555382.png" width="18" height="18"/> <img src="https://www.odyssea.eu/data/img/pie-chart-blue-loading.gif" width="20" height="20"/>
+	  Currently interested in Data Analytics and Business Intelligence <img src="https://cdn-icons-png.flaticon.com/512/5555/5555382.png" width="18" height="18"/> <img src="https://www.odyssea.eu/data/img/pie-chart-blue-loading.gif" width="20" height="20"/>
  </span>
  
 - <span style="color:skyblue;font-family:monospace;" align="center">
 	Looking for collaboration on Machine Learning or Business Intelligence projects 👀
 </span>
+</p>
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 AI/ML/DL/MLOps Technologies
