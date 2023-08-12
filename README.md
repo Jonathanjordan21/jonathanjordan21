@@ -9,10 +9,10 @@
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 <code style = "color:#FFFFFF">I'm JoJo</code>
-<br>A Final Year Undergraduate Student at Gunadarma University
+<br>A Final Year Undergraduate Informatics Student at Gunadarma University
 </h3>
 
-<p align="center">
+
 - <span style="color:skyblue;font-family:monospace;" align="center">
 	Specialized in Machine Learning and Deep Learning 🔬🔮
 </span>
@@ -24,8 +24,8 @@
 - <span style="color:skyblue;font-family:monospace;" align="center">
 	Looking for collaboration on Machine Learning or Business Intelligence projects 👀
 </span>
-</p>
 
+<br><br>
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 AI/ML/DL/MLOps Technologies
 </h3>
