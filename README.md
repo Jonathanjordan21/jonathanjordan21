@@ -5,7 +5,7 @@
 
 </h1>
 
-<h2 align="center>
+<h2 align="center">
 
 ![alt text](https://cutewallpaper.org/21/anime-night-sky-gif/Sky-night-moon-GIF-on-GIFER-by-Munilune.gif)
  
