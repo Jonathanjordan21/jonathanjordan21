@@ -21,7 +21,7 @@
 </span>
 
 - <span style="color:skyblue;font-family:monospace;" align="center">
-	  Currently interested in Data Analytics and Business Intelligence <img src="https://cdn-icons-png.flaticon.com/512/5555/5555382.png" width="18" height="18"/> <img src="https://www.odyssea.eu/data/img/pie-chart-blue-loading.gif" width="20" height="20"/>
+	  Currently interested in One Shot Style Transfer and Retrieval Augmented Generation <img src="https://cdn-icons-png.flaticon.com/512/5555/5555382.png" width="18" height="18"/> <img src="https://www.odyssea.eu/data/img/pie-chart-blue-loading.gif" width="20" height="20"/>
  </span>
  
 - <span style="color:skyblue;font-family:monospace;" align="center">
