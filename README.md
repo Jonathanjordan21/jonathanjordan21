@@ -17,7 +17,7 @@
 
 
 - <span style="color:skyblue;font-family:monospace;" align="center">
-	Specialized in Machine Learning and Deep Learning 🔬🔮
+	Specialized in Data Engineering and AI Engineering 🔬🔮
 </span>
 
 - <span style="color:skyblue;font-family:monospace;" align="center">
@@ -25,7 +25,7 @@
  </span>
  
 - <span style="color:skyblue;font-family:monospace;" align="center">
-	Looking for collaboration on Machine Learning or Business Intelligence projects 👀
+	Looking for collaboration on AI/ML/DL or Data Engineering projects 👀
 </span>
 
 <br>
@@ -34,10 +34,11 @@ AI/ML/DL/MLOps Technologies
 </h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" / > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"
-width=100> <img src="https://lh3.googleusercontent.com/enPnHXtcB23cC1zbJrAFmJ6hh9huJ4uWrCrBDMRv1BgvU6ys17cHsGCz3DabBJ7U5R8WgsKWzDmCjkIYV8XxGg" width=55> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width=150> 
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" / >  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width=150> 
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width=70 /> <img src="https://www.calsoftinc.com/wp-content/uploads/2023/06/LangChain-logo.png" width=90 />  <img src="https://docs.trychroma.com/img/chroma.png" width=90>
      
 </p>
+
 
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
@@ -46,9 +47,22 @@ Cloud Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp" />
   </a>
 </p>
+
+
+<h3 align="center", style="color:#1994FF;font-family:monospace">
+Data Engineering
+</h3>
+
+<p align="center">
+    <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png"
+width=50> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width=55><img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" width=110> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" width=33> <img src="https://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" width=60> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width=53>   <img src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png?t=1603851650" width=100 height=45> 
+     
+</p>
+
+
 
 <h3 align="center", style="color:#1994FF;font-family:monospace">
 Data Analytics & Business Intelligence
@@ -67,7 +81,7 @@ Other Tech Stack and Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,dart,kotlin,androidstudio,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,androidstudio,flutter" />
   </a>
 </p>
 
