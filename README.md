@@ -57,8 +57,8 @@ Data Engineering
 </h3>
 
 <p align="center">
-    <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png"
-width=50> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width=55><img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" width=110> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" width=33> <img src="https://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" width=60> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width=53>   <img src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png?t=1603851650" width=100 height=45> 
+    <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" width=50> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" width=55><img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" width=110> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" width=33> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_logo_icon_146366.png" width=60> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width=53>    
+<!--<img src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png?t=1603851650" width=100 height=45> -->
      
 </p>
 
